@@ -1,1 +1,1 @@
-# PyhtonCodingNinja
+# PythonCodingNinja
